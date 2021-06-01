@@ -13,3 +13,4 @@ Formation Git pour Sopra Steria
 * Centralized
 * Git Flow
 * Github Flow
+* Gitlab Flow
