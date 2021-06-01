@@ -7,3 +7,9 @@ Formation Git pour Sopra Steria
 * git status
 * git init
 * git commit
+
+## Workflow
+
+* Centralized
+* Git Flow
+* Github Flow
